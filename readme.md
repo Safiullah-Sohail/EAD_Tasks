@@ -21,7 +21,7 @@ Click the "Start" button next to "Apache" to start the web server.
 
 Access the web app:
 Open your web browser and navigate to:
-http://localhost/Ajax/
+http://localhost/"Repo-Name"/
 This should open the wapplication in your browser.
 
 #### Troubleshooting:
